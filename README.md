@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MYTHICAL%20TRAINER&fontSize=40&fontColor=FFD700&fontAlignY=35&animation=twinkling&fontFamily=Press+Start+2P&desc=G%20U%20N%20D%20A%20%20%20S%20U%20K%20E%20S%20H&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=ARCHITECT+OF+THE+DIGITAL+UNIVERSE;Wielder+of+AI+and+Full-Stack+Magic;Level+99+Ascended+Developer;Gotta+Code+%27em+All!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=MYTHICAL+TRAINER+GUNDA+SUKESH;ARCHITECT+OF+THE+DIGITAL+UNIVERSE;LEVEL+99+ASCENDED+DEVELOPER;GOTTA+CODE+%27EM+ALL!" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=100%25"/>
 
@@ -40,7 +38,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&width=500&height=40&lines=✧+MYTHICAL+TRAINER+✧" />
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&width=500&height=40&lines=MYTHICAL+TRAINER" />
     </td>
   </tr>
   <tr>
@@ -110,7 +108,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" colspan="3">
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&width=600&height=40&lines=⚔️+MYTHICAL+STAT+BLOCK+⚔️" />
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&width=600&height=40&lines=MYTHICAL+STAT+BLOCK" />
     </td>
   </tr>
   <tr>
@@ -506,8 +504,6 @@ print(f"Updated: {name} #{pid}")
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=000000&labelColor=000000)](https://github.com/Gunda-Sukesh/Portfolio)
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=GOTTA+CODE+'EM+ALL&fontSize=20&fontColor=FFD700&fontAlignY=65&animation=twinkling&fontFamily=Press+Start+2P" width="100%"/>
 
 </div>
