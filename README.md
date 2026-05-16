@@ -39,7 +39,7 @@
 
 ```text
  ╔══════════════════════════════════════════════════════════╗
- ║    * * *     M Y T H I C A L   T R A I N E R     * * *     ║
+ ║    * * *     M Y T H I C A L   T R A I N E R     * * *   ║
  ╠══════════════════════════════════════════════════════════╣
  ║  NAME    :  Gunda Sukesh                                 ║
  ║  TITLE   :  The Creator (Full-Stack & AI)                ║
@@ -86,18 +86,18 @@
 
 ```text
  ╔══════════════════════════════════════════════════════════════════╗
- ║          *  MYTHICAL STAT BLOCK — TRAINER GUNDA SUKESH *       ║
- ╠══════════════╦═══════════╦═════════════════════════════════════╣
- ║  STAT        ║  VALUE    ║  DESCRIPTION                        ║
- ╠══════════════╬═══════════╬═════════════════════════════════════╣
- ║  HP          ║  MAX      ║  Flawless Uptime & Contributions    ║
- ║  ATK         ║  MAX      ║  God-Tier Backend & AI Logic        ║
- ║  DEF         ║  MAX      ║  Impenetrable Error Handling        ║
- ║  SP.ATK      ║  MAX      ║  Neural Networks & Deep Learning    ║
- ║  SP.DEF      ║  MAX      ║  Clean Architecture & Documentation ║
- ║  SPEED       ║  MAX      ║  Lightning-Fast Delivery            ║
- ╠══════════════╩═══════════╩═════════════════════════════════════╣
- ║  * ASCENSION STREAK     ████████████████████  Unbreakable      ║
+ ║          *  MYTHICAL STAT BLOCK — TRAINER GUNDA SUKESH *         ║
+ ╠══════════════╦═══════════╦═══════════════════════════════════════╣
+ ║  STAT        ║  VALUE    ║  DESCRIPTION                          ║
+ ╠══════════════╬═══════════╬═══════════════════════════════════════╣
+ ║  HP          ║  MAX      ║  Flawless Uptime & Contributions      ║
+ ║  ATK         ║  MAX      ║  God-Tier Backend & AI Logic          ║
+ ║  DEF         ║  MAX      ║  Impenetrable Error Handling          ║
+ ║  SP.ATK      ║  MAX      ║  Neural Networks & Deep Learning      ║
+ ║  SP.DEF      ║  MAX      ║  Clean Architecture & Documentation   ║
+ ║  SPEED       ║  MAX      ║  Lightning-Fast Delivery              ║
+ ╠══════════════╩═══════════╩═══════════════════════════════════════╣
+ ║  * ASCENSION STREAK     ████████████████████  Unbreakable        ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -284,6 +284,66 @@
 > Moves: `Event Create` · `Schedule Query` · `RSVP Handle` · `Dashboard Render`
 
 🔗 [github.com/Gunda-Sukesh/Planetskap](https://github.com/Gunda-Sukesh/Planetskap)
+</td>
+</tr></table>
+
+<br/>
+
+### `#005` — Blog_Platform &nbsp; ![](https://img.shields.io/badge/📝-Content--System-FF9800?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/⚡-Full--Stack-F7DF1E?style=flat-square&labelColor=000000)
+
+<table><tr>
+<td width="100" align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png" width="90" alt="Reshiram"/>
+  <br/><sub><b>Reshiram</b></sub>
+</td>
+<td>
+
+> **"A radiant entity capable of broadcasting absolute truths to the digital world."**
+>
+> Typing: `JavaScript` + `Content-System` · Ability: **Turboblaze**
+> Moves: `Post Create` · `Markdown Parse` · `User Auth` · `Publish`
+
+🔗 [github.com/Gunda-Sukesh/Blog_Platform](https://github.com/Gunda-Sukesh/Blog_Platform)
+</td>
+</tr></table>
+
+<br/>
+
+### `#006` — LungXSim &nbsp; ![](https://img.shields.io/badge/🩺-Simulation-4CAF50?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/🧬-Health--Tech-E91E63?style=flat-square&labelColor=000000)
+
+<table><tr>
+<td width="100" align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png" width="90" alt="Xerneas"/>
+  <br/><sub><b>Xerneas</b></sub>
+</td>
+<td>
+
+> **"A mystical simulator breathing eternal life into complex medical models."**
+>
+> Typing: `Python` + `Simulation` · Ability: **Fairy Aura**
+> Moves: `Data Model` · `Compute Breath` · `Render Sim` · `Analyze Health`
+
+🔗 [github.com/Gunda-Sukesh/LungXSim](https://github.com/Gunda-Sukesh/LungXSim)
+</td>
+</tr></table>
+
+<br/>
+
+### `#007` — Application_Monitoring &nbsp; ![](https://img.shields.io/badge/👁️-Observability-2196F3?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/📊-DevOps-607D8B?style=flat-square&labelColor=000000)
+
+<table><tr>
+<td width="100" align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png" width="90" alt="Zygarde"/>
+  <br/><sub><b>Zygarde</b></sub>
+</td>
+<td>
+
+> **"An omnipresent guardian that monitors the ecosystem and maintains perfect order."**
+>
+> Typing: `Go` + `DevOps` · Ability: **Aura Break**
+> Moves: `Log Ingest` · `Metric Scrape` · `Trace Request` · `Alert Fire`
+
+🔗 [github.com/Gunda-Sukesh/Application_Monitoring](https://github.com/Gunda-Sukesh/Application_Monitoring)
 </td>
 </tr></table>
 
