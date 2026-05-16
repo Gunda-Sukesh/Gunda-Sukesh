@@ -376,7 +376,7 @@
 
 <br/>
 
-### `#007` — Application_Monitoring &nbsp; ![](https://img.shields.io/badge/👁️-Observability-2196F3?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/☸️-Kubernetes-326CE5?style=flat-square&labelColor=000000)
+### `#007` — Application_Monitoring &nbsp; ![](https://img.shields.io/badge/👁️-Observability-2196F3?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/☸️-Cloud-326CE5?style=flat-square&labelColor=000000)
 
 <table><tr>
 <td width="100" align="center">
@@ -387,7 +387,7 @@
 
 > **"An omnipresent guardian that monitors the ecosystem and maintains perfect order."**
 >
-> Typing: `Kubernetes` + `DevOps` · Ability: **Aura Break**
+> Typing: `Grafana` + `Prometheus` + `Docker`  · Ability: **Aura Break**
 > Moves: `Log Ingest` · `Metric Scrape` · `Trace Request` · `Alert Fire`
 
 🔗 [github.com/Gunda-Sukesh/Application_Monitoring](https://github.com/Gunda-Sukesh/Application_Monitoring)
@@ -402,11 +402,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=THE+CELESTIAL+GROUNDS" />
 
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunda-Sukesh&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&area_color=111111&title_color=FFD700&border_color=FFD700&custom_title=🌌+Celestial+Activity+Graph" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=HALL+OF+THE+GODS" />
 
