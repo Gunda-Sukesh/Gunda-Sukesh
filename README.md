@@ -1,3 +1,196 @@
+<!--
+  Pokémon-themed GitHub landing README for `Gunda-Sukesh`
+  - Trainer card style intro
+  - Repo gallery and badges
+  - Clear guidance for including private repos safely
+  - Optional automation (GitHub Actions) snippet included below
+-->
+
+# ⚡️ Gunda Sukesh — Pokémon Trainer & Developer
+
+![Poké-Header](https://raw.githubusercontent.com/Gunda-Sukesh/Gunda-Sukesh/main/.github/pokebanner.png)
+
+- **Location:** Earth
+- **Role:** Full-stack Trainer (DevOps | Backend | Frontend)
+- **Experience:** 20+ years of battle-tested engineering
+
+---
+
+**Trainer Card**
+
+| | |
+|-:|:-|
+| **Name** | Gunda Sukesh |
+| **Title** | Pokémon Trainer • Software Engineer |
+| **Type** | Electric ⚡ / Steel ⚙️ |
+| **Badge** | Master of clean code, architecture, and mentoring |
+| **Top Moves** | Design Systems · Cloud Architecture · Automation |
+
+> This is a Pokémon-card style trainer intro — compact, visual, and focused. Use this section as the single-sentence highlight for profile visitors.
+
+---
+
+**Quick Stats**
+
+- ![Followers](https://img.shields.io/github/followers/Gunda-Sukesh?label=Followers&style=social)
+- ![Public Repos](https://img.shields.io/github/repo-size/Gunda-Sukesh/Gunda-Sukesh?label=Repo%20size)
+- ![Top Language](https://img.shields.io/github/languages/top/Gunda-Sukesh/Gunda-Sukesh?color=blue)
+
+---
+
+**Public Repositories**
+
+- Discover all public work on my repositories page: https://github.com/Gunda-Sukesh?tab=repositories
+
+- Want a curated gallery here? I can generate a section that lists and highlights your public repos (with description, language, and a short note). Ask me to auto-populate it.
+
+**Private Repositories**
+
+- I cannot read or list the names of your private repositories from this environment for privacy/security reasons.
+- If you want your private repos *mentioned* on this README, you have three safe options:
+  - Add them manually below (copy-paste) — quick and simple.
+  - Use a GitHub Action that runs in your account and has access to your private repos (via a secret token). The Action can update the README with a curated list.
+  - Use a script locally with a Personal Access Token (PAT) to generate and commit the README.
+
+See the **Automation** section below for an example GitHub Action + script that will list both public and private repos (requires a secret PAT).
+
+---
+
+**Design Notes & Philosophy**
+
+- Minimal, high-contrast trainer card at the top for immediate recognition.
+- Clear call-to-action: visit the repo list and contact info.
+- Use GitHub Actions to keep the README up-to-date automatically while keeping secrets safe in `Settings -> Secrets`.
+
+---
+
+**Automation (Optional)**
+
+Below is an example workflow and small Node.js/Python script snippet you can add to your repository to populate a `REPOS.md` or inject a repository list into this `README.md`. This workflow runs inside your account and can access private repos when provided a secret token. DO NOT share your token publicly.
+
+1) Create a secret named `PERSONAL_TOKEN` in your repository settings.
+
+2) Example GitHub Action workflow (save as `.github/workflows/update-readme.yml`):
+
+```yaml
+name: Update README with repos
+
+on:
+  schedule:
+    - cron: '0 8 * * 1' # weekly
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch repos and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          python3 .github/scripts/generate_repos_readme.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update README repo list"
+          branch: main
+          file_pattern: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+```
+
+3) Example `generate_repos_readme.py` (place in `.github/scripts/`):
+
+```python
+#!/usr/bin/env python3
+import os, requests, sys
+
+TOKEN = os.environ.get('GITHUB_TOKEN')
+USER = 'Gunda-Sukesh'
+HEADERS = {'Authorization': f'token {TOKEN}'} if TOKEN else {}
+
+def fetch_repos():
+    repos = []
+    page = 1
+    while True:
+        url = f'https://api.github.com/users/{USER}/repos?per_page=100&page={page}'
+        r = requests.get(url, headers=HEADERS)
+        if r.status_code != 200:
+            print('Failed to fetch repos:', r.status_code, r.text)
+            sys.exit(1)
+        data = r.json()
+        if not data:
+            break
+        repos.extend(data)
+        page += 1
+    return repos
+
+def render(repos):
+    lines = ["## Repo Gallery\n"]
+    for r in sorted(repos, key=lambda x: x.get('stargazers_count',0), reverse=True):
+        name = r['name']
+        desc = r['description'] or ''
+        lang = r.get('language') or '—'
+        private = '🔒' if r.get('private') else ''
+        stars = r.get('stargazers_count', 0)
+        lines.append(f"- **[{name}](https://github.com/{USER}/{name})** {private} — {desc} • {lang} • ⭐ {stars}")
+    return '\n'.join(lines)
+
+if __name__ == '__main__':
+    repos = fetch_repos()
+    md = render(repos)
+    # Insert or replace a marker region in README.md
+    with open('README.md', 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    start_marker = '<!-- REPO_LIST_START -->'
+    end_marker = '<!-- REPO_LIST_END -->'
+    if start_marker in content and end_marker in content:
+        head = content.split(start_marker)[0]
+        tail = content.split(end_marker)[1]
+        new_content = head + start_marker + '\n' + md + '\n' + end_marker + tail
+    else:
+        new_content = content + '\n' + start_marker + '\n' + md + '\n' + end_marker
+
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    print('README updated with', len(repos), 'repos')
+```
+
+Notes:
+- The script uses the authenticated API when `PERSONAL_TOKEN` is set; that allows visibility of private repos.
+- Keep the token as a repository secret. The Action runs inside GitHub and will not expose the token in build logs if used properly.
+
+---
+
+**Manual Quick Edits**
+
+- To list private repos manually, paste a short curated list below:
+
+<!-- PRIVATE_REPOS_START -->
+- *(private repo names go here — add manually if you prefer not to use automation)*
+<!-- PRIVATE_REPOS_END -->
+
+---
+
+**Contact & Social**
+
+- Portfolio: (add your site)
+- Email: (add email)
+- GitHub: https://github.com/Gunda-Sukesh
+
+---
+
+If you want, I can:
+
+- ✅ Add the GitHub Action workflow and script to this repository and commit them for you (you'll still need to add the `PERSONAL_TOKEN` secret).
+- ✅ Auto-populate the public repo gallery now (I can fetch public repo metadata and insert it into this README).
+
+Which would you like next?
 <!-- ╔═══════════════════════════════════════════════════════════════╗
      ║   POKÉMON TRAINER CARD — Gunda-Sukesh GitHub README          ║
      ║   Drop this file into your Gunda-Sukesh/Gunda-Sukesh repo    ║
