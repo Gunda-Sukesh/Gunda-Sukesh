@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MYTHICAL%20TRAINER&fontSize=40&fontColor=FFD700&fontAlignY=35&animation=twinkling&fontFamily=Press+Start+2P&desc=G%20U%20N%20D%20A%20%20%20S%20U%20K%20E%20S%20H&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=ARCHITECT+OF+THE+DIGITAL+UNIVERSE;Wielder+of+AI+and+Full-Stack+Magic;Level+99+Ascended+Developer;Gotta+Code+%27em+All!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=MYTHICAL+TRAINER+GUNDA+SUKESH;ARCHITECT+OF+THE+DIGITAL+UNIVERSE;LEVEL+99+ASCENDED+DEVELOPER;GOTTA+CODE+'EM+ALL!" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=100%25"/>
 
@@ -15,7 +13,7 @@
 
 <br/>
 
-<table align="center" width="100%" border="0" style="background-color:#050505;">
+<table align="center" width="100%" border="0">
 <tr>
 <td width="30%" align="center" valign="top">
 
@@ -82,7 +80,7 @@
 
 *Gunda Sukesh used **JUDGMENT**! The codebase was perfectly compiled!*
 
-</div>
+</div align>
 
 ```text
  ╔══════════════════════════════════════════════════════════════════╗
@@ -104,10 +102,10 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&include_all_commits=true&count_private=true&custom_title=Mythical%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&border_color=FFD700&custom_title=Mythical%20Stats" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&custom_title=Divine%20Elements" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=radical&title_color=FFD700&border_color=FFD700&custom_title=Divine%20Elements" />
 </td>
 </tr>
 </table>
@@ -116,7 +114,7 @@
 
 ### 🌌 ETERNAL STREAK
 
-<img src="https://streak-stats.demolab.com/?user=Gunda-Sukesh&theme=tokyonight&background=000000&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=FFD700" />
+<img src="https://streak-stats.demolab.com/?user=Gunda-Sukesh&theme=radical&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&dates=FFD700" />
 
 </div>
 
