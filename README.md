@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MYTHICAL%20TRAINER&fontSize=40&fontColor=FFD700&fontAlignY=35&animation=twinkling&fontFamily=Press+Start+2P&desc=G%20U%20N%20D%20A%20%20%20S%20U%20K%20E%20S%20H&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=✦+ARCHITECT+OF+THE+DIGITAL+UNIVERSE+✦;Wielder+of+AI+and+Full-Stack+Magic;Level+99+Ascended+Developer;Gotta+Code+%27em+All!+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=ARCHITECT+OF+THE+DIGITAL+UNIVERSE;Wielder+of+AI+and+Full-Stack+Magic;Level+99+Ascended+Developer;Gotta+Code+%27em+All!" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=100%25"/>
 
@@ -39,16 +39,16 @@
 
 ```text
  ╔══════════════════════════════════════════════════════════╗
- ║  ✧ ✧ ✧     M Y T H I C A L   T R A I N E R     ✧ ✧ ✧   ║
+ ║    * * *     M Y T H I C A L   T R A I N E R     * * *     ║
  ╠══════════════════════════════════════════════════════════╣
  ║  NAME    :  Gunda Sukesh                                 ║
  ║  TITLE   :  The Creator (Full-Stack & AI)                ║
- ║  REALM   :  India  🇮🇳                                   ║
+ ║  REALM   :  India                                        ║
  ║  AURA    :  God-Tier Developer                           ║
  ╠══════════════════════════════════════════════════════════╣
  ║  POWER   :  LV.99  ████████████████████ 100% ASCENDED    ║
  ╠══════════════════════════════════════════════════════════╣
- ║  SIGILS  :  ♾️ Omni   🌌 Void   ⚡ Spark   🧠 Mind     ║
+ ║  SIGILS  :  Omni  /  Void  /  Spark  /  Mind             ║
  ╠══════════════════════════════════════════════════════════╣
  ║  CHAMPION:  Arceus        NEMESIS:  Bugs                 ║
  ╚══════════════════════════════════════════════════════════╝
@@ -61,9 +61,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Gunda-Sukesh?label=🌌+Disciples&style=flat-square&color=FFD700&labelColor=000000"/>
-  <img src="https://img.shields.io/github/stars/Gunda-Sukesh?label=⭐+Divine+Sparks&style=flat-square&color=FFD700&labelColor=000000&affiliations=OWNER"/>
-  <img src="https://komarev.com/ghpvc/?username=Gunda-Sukesh&label=👁️+Mortals+Met&color=FFD700&style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/github/followers/Gunda-Sukesh?label=Disciples&style=flat-square&color=FFD700&labelColor=000000"/>
+  <img src="https://img.shields.io/github/stars/Gunda-Sukesh?label=Divine%20Sparks&style=flat-square&color=FFD700&labelColor=000000&affiliations=OWNER"/>
+  <img src="https://komarev.com/ghpvc/?username=Gunda-Sukesh&label=Mortals%20Met&color=FFD700&style=flat-square&labelColor=000000"/>
 </p>
 
 </td>
@@ -86,28 +86,28 @@
 
 ```text
  ╔══════════════════════════════════════════════════════════════════╗
- ║          ⚔  MYTHICAL STAT BLOCK — TRAINER GUNDA SUKESH ⚔       ║
+ ║          *  MYTHICAL STAT BLOCK — TRAINER GUNDA SUKESH *       ║
  ╠══════════════╦═══════════╦═════════════════════════════════════╣
  ║  STAT        ║  VALUE    ║  DESCRIPTION                        ║
  ╠══════════════╬═══════════╬═════════════════════════════════════╣
- ║  HP   💚     ║  MAX      ║  Flawless Uptime & Contributions    ║
- ║  ATK  ⚔️    ║  MAX      ║  God-Tier Backend & AI Logic        ║
- ║  DEF  🛡️    ║  MAX      ║  Impenetrable Error Handling        ║
- ║  SP.ATK 🔮   ║  MAX      ║  Neural Networks & Deep Learning    ║
- ║  SP.DEF ✨   ║  MAX      ║  Clean Architecture & Documentation ║
- ║  SPEED 💨    ║  MAX      ║  Lightning-Fast Delivery            ║
+ ║  HP          ║  MAX      ║  Flawless Uptime & Contributions    ║
+ ║  ATK         ║  MAX      ║  God-Tier Backend & AI Logic        ║
+ ║  DEF         ║  MAX      ║  Impenetrable Error Handling        ║
+ ║  SP.ATK      ║  MAX      ║  Neural Networks & Deep Learning    ║
+ ║  SP.DEF      ║  MAX      ║  Clean Architecture & Documentation ║
+ ║  SPEED       ║  MAX      ║  Lightning-Fast Delivery            ║
  ╠══════════════╩═══════════╩═════════════════════════════════════╣
- ║  🔥 ASCENSION STREAK    ████████████████████  Unbreakable      ║
+ ║  * ASCENSION STREAK     ████████████████████  Unbreakable      ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&include_all_commits=true&count_private=true&custom_title=⚡+Mythical+Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&include_all_commits=true&count_private=true&custom_title=Mythical%20Stats" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&custom_title=🗡️+Divine+Elements" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&custom_title=Divine%20Elements" />
 </td>
 </tr>
 </table>
