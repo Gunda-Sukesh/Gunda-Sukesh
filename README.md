@@ -99,7 +99,7 @@
 
 <div align="center">
 
-## ⚔️ DIVINE BATTLE STATS
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=DIVINE+BATTLE+STATS" />
 
 *Gunda Sukesh used **JUDGMENT**! The codebase was perfectly compiled!*
 
@@ -151,17 +151,17 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&border_color=FFD700" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&border_color=FFD700" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=radical&title_color=FFD700&border_color=FFD700" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=radical&title_color=FFD700&border_color=FFD700" />
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-### 🌌 ETERNAL STREAK
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=ETERNAL+STREAK" />
 
 <img src="https://streak-stats.demolab.com/?user=Gunda-Sukesh&theme=tokyonight&background=000000&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=FFD700" />
 
@@ -175,7 +175,7 @@
 
 <div align="center">
 
-## 🌌 THE PANTHEON (ACTIVE PARTY)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=THE+PANTHEON+(ACTIVE+PARTY)" />
 
 *The Legendary Six — Wielders of the Ultimate Tech Stack*
 
@@ -250,7 +250,7 @@
 
 <div align="center">
 
-## 📖 THE SACRED TEXTS (DISCOVERED PROJECTS)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=THE+SACRED+TEXTS" />
 
 </div>
 
@@ -336,7 +336,7 @@
 
 <br/>
 
-### `#005` — Blog_Platform &nbsp; ![](https://img.shields.io/badge/📝-Content--System-FF9800?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/⚡-Full--Stack-F7DF1E?style=flat-square&labelColor=000000)
+### `#005` — Blog_Platform &nbsp; ![](https://img.shields.io/badge/📝-Content--System-FF9800?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/🍃-Spring--Boot-6DB33F?style=flat-square&labelColor=000000)
 
 <table><tr>
 <td width="100" align="center">
@@ -347,7 +347,7 @@
 
 > **"A radiant entity capable of broadcasting absolute truths to the digital world."**
 >
-> Typing: `JavaScript` + `Content-System` · Ability: **Turboblaze**
+> Typing: `Spring Boot` + `Content-System` · Ability: **Turboblaze**
 > Moves: `Post Create` · `Markdown Parse` · `User Auth` · `Publish`
 
 🔗 [github.com/Gunda-Sukesh/Blog_Platform](https://github.com/Gunda-Sukesh/Blog_Platform)
@@ -376,7 +376,7 @@
 
 <br/>
 
-### `#007` — Application_Monitoring &nbsp; ![](https://img.shields.io/badge/👁️-Observability-2196F3?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/📊-DevOps-607D8B?style=flat-square&labelColor=000000)
+### `#007` — Application_Monitoring &nbsp; ![](https://img.shields.io/badge/👁️-Observability-2196F3?style=flat-square&labelColor=000000) ![](https://img.shields.io/badge/☸️-Kubernetes-326CE5?style=flat-square&labelColor=000000)
 
 <table><tr>
 <td width="100" align="center">
@@ -387,7 +387,7 @@
 
 > **"An omnipresent guardian that monitors the ecosystem and maintains perfect order."**
 >
-> Typing: `Go` + `DevOps` · Ability: **Aura Break**
+> Typing: `Kubernetes` + `DevOps` · Ability: **Aura Break**
 > Moves: `Log Ingest` · `Metric Scrape` · `Trace Request` · `Alert Fire`
 
 🔗 [github.com/Gunda-Sukesh/Application_Monitoring](https://github.com/Gunda-Sukesh/Application_Monitoring)
@@ -402,13 +402,13 @@
 
 <div align="center">
 
-## 🌟 THE CELESTIAL GROUNDS (CONTRIBUTION MAP)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=THE+CELESTIAL+GROUNDS" />
 
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunda-Sukesh&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&area_color=111111&title_color=FFD700&border_color=FFD700&custom_title=🌌+Celestial+Activity+Graph" />
 
-## 🏆 HALL OF THE GODS
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=HALL+OF+THE+GODS" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Gunda-Sukesh&theme=tokyonight&no-frame=false&row=1&column=6&title=Stars,Commits,Repositories,Followers,Issues,PullRequest&margin-w=6" />
 
@@ -422,7 +422,7 @@
 
 <div align="center">
 
-## 🌿 A MYTHICAL POKÉMON APPEARED!
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD700&center=true&width=800&height=40&lines=A+MYTHICAL+POKEMON+APPEARED!" />
 
 *Auto-updated daily by the Cosmic Actions*
 
@@ -499,10 +499,10 @@ print(f"Updated: {name} #{pid}")
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunda-sukesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunda-sukesh-052204276/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gunda-Sukesh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=000000&labelColor=000000)](https://github.com/Gunda-Sukesh/Portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukeshgunda05@gmail.com)
+
 
 
 
