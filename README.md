@@ -191,6 +191,103 @@ If you want, I can:
 - ✅ Auto-populate the public repo gallery now (I can fetch public repo metadata and insert it into this README).
 
 Which would you like next?
+
+---
+
+## Press START ➜ Level up code, catch new skills, ship rare drops
+
+<!-- Pixel banner placeholder -->
+![Banner](https://raw.githubusercontent.com/Gunda-Sukesh/Gunda-Sukesh/main/.github/pixel-banner.png)
+
+**Trainer Card • Skills • Gym Badges • Quest Log • Pokédex • Stats • Contact**
+
+---
+
+## Trainer Card
+
+| | |
+|-:|:-|
+| ![Trainer Avatar](https://avatars.githubusercontent.com/u/000?v=4) | **Gunda Sukesh**  
+Full-stack Trainer • Software Engineer  
+Electric ⚡ / Steel ⚙️ • 20+ years experience |
+
+> Pokémon-card style — concise, visual, and professional. This is the front-and-center introduction for visitors.
+
+---
+
+## Skills
+
+- 🧠 **Core Languages:** `Python`, `TypeScript`, `Go`  
+- ⚙️ **Frameworks / Tools:** `React`, `Node.js`, `Docker`, `Kubernetes`  
+- 🤖 **AI / Data:** Transformers, NLP, Computer Vision  
+- 🚀 **DevOps:** CI/CD, Terraform, Observability
+
+Badges:
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🏆 Gym Badges
+
+- 🔥 Fire Badge — System Design & Architecture
+- 💧 Water Badge — Scalable Backends
+- ⚡ Electric Badge — Real-time Systems
+- 🌿 (in progress) — Feature Engineering
+
+---
+
+## 🎯 Quest Log (current focus)
+
+- [75%] Advanced System Design — Distributed Systems & Event-driven patterns
+- [60%] Advanced ML — Transformers fine-tuning and productionization
+- [80%] Cloud-native deployments — Kubernetes & Observability
+
+---
+
+## Pokédex — Featured Projects
+
+Below is a curated list of projects. I can auto-populate this section with your public (and private, if you run the automation) repositories.
+
+<!-- REPO_LIST_START -->
+- *(Repo list will be generated here — run the optional automation to populate.)*
+<!-- REPO_LIST_END -->
+
+You can pin up to 6 projects here for highlight.
+
+---
+
+## Stats & Activity
+
+- GitHub Readme Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=tokyonight)
+
+- Contribution heatmap (visual):
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Gunda-Sukesh&theme=github)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/Gunda-Sukesh
+- Email: (add email)  
+- Portfolio: (add site)
+
+---
+
+Made with ❤️ — 16-bit Pokémon vibes. Want the exact Asuka-style visuals (animated sprites, custom badges, dynamic adventure map)? I can add original SVG assets and the automation to update them daily.
+
+Next actions I can take for you:
+- Add the GitHub Action + script to auto-populate the Pokédex (requires `PERSONAL_TOKEN` secret).
+- Create custom pixel-art banner and trainer-card SVG assets and add them under `.github/assets/`.
+- Auto-populate public repo gallery now and commit the change.
+
+Which one should I do next?
 <!-- ╔═══════════════════════════════════════════════════════════════╗
      ║   POKÉMON TRAINER CARD — Gunda-Sukesh GitHub README          ║
      ║   Drop this file into your Gunda-Sukesh/Gunda-Sukesh repo    ║
