@@ -37,22 +37,45 @@
 </td>
 <td width="70%" valign="top" align="center">
 
-```text
- ╔══════════════════════════════════════════════════════════╗
- ║    * * *     M Y T H I C A L   T R A I N E R     * * *   ║
- ╠══════════════════════════════════════════════════════════╣
- ║  NAME    :  Gunda Sukesh                                 ║
- ║  TITLE   :  The Creator (Full-Stack & AI)                ║
- ║  REALM   :  India                                        ║
- ║  AURA    :  God-Tier Developer                           ║
- ╠══════════════════════════════════════════════════════════╣
- ║  POWER   :  LV.99  ████████████████████ 100% ASCENDED    ║
- ╠══════════════════════════════════════════════════════════╣
- ║  SIGILS  :  Omni  /  Void  /  Spark  /  Mind             ║
- ╠══════════════════════════════════════════════════════════╣
- ║  CHAMPION:  Arceus        NEMESIS:  Bugs                 ║
- ╚══════════════════════════════════════════════════════════╝
-```
+<table align="center" width="100%">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&width=500&height=40&lines=✧+MYTHICAL+TRAINER+✧" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="40%"><b>NAME :</b></td>
+    <td align="left" width="60%"><code>Gunda Sukesh</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>TITLE :</b></td>
+    <td align="left"><code>The Creator (Full-Stack & AI)</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>REALM :</b></td>
+    <td align="left"><img src="https://img.shields.io/badge/INDIA-🇮🇳-CC0000?style=flat-square&labelColor=000000"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AURA :</b></td>
+    <td align="left"><code>God-Tier Developer</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>POWER :</b></td>
+    <td align="left"><img src="https://img.shields.io/badge/LV.99-██████████_100%25_ASCENDED-FFD700?style=flat-square&labelColor=000000"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>SIGILS :</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Omni-♾️-FFD700?style=flat-square&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Void-🌌-8A2BE2?style=flat-square&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Spark-⚡-FF4500?style=flat-square&labelColor=000000"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>CHAMPION :</b></td>
+    <td align="left"><code>Arceus</code> &nbsp; &nbsp; <b>NEMESIS :</b> <code>Bugs</code></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/👑_Trainer_Status-Mythical-FFD700?style=for-the-badge&labelColor=000000"/>
@@ -82,32 +105,58 @@
 
 *Gunda Sukesh used **JUDGMENT**! The codebase was perfectly compiled!*
 
-</div align = "center">
+</div>
 
-```text
- ╔══════════════════════════════════════════════════════════════════╗
- ║          *  MYTHICAL STAT BLOCK — TRAINER GUNDA SUKESH *         ║
- ╠══════════════╦═══════════╦═══════════════════════════════════════╣
- ║  STAT        ║  VALUE    ║  DESCRIPTION                          ║
- ╠══════════════╬═══════════╬═══════════════════════════════════════╣
- ║  HP          ║  MAX      ║  Flawless Uptime & Contributions      ║
- ║  ATK         ║  MAX      ║  God-Tier Backend & AI Logic          ║
- ║  DEF         ║  MAX      ║  Impenetrable Error Handling          ║
- ║  SP.ATK      ║  MAX      ║  Neural Networks & Deep Learning      ║
- ║  SP.DEF      ║  MAX      ║  Clean Architecture & Documentation   ║
- ║  SPEED       ║  MAX      ║  Lightning-Fast Delivery              ║
- ╠══════════════╩═══════════╩═══════════════════════════════════════╣
- ║  * ASCENSION STREAK     ████████████████████  Unbreakable        ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
+<table align="center" width="100%">
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFD700&center=true&width=600&height=40&lines=⚔️+MYTHICAL+STAT+BLOCK+⚔️" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HP-💚-FFD700?style=for-the-badge&labelColor=000000"/></td>
+    <td align="center"><h3><kbd>MAX</kbd></h3></td>
+    <td align="left"><b>Flawless Uptime & Contributions</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/ATK-⚔️-FF6B35?style=for-the-badge&labelColor=000000"/></td>
+    <td align="center"><h3><kbd>MAX</kbd></h3></td>
+    <td align="left"><b>God-Tier Backend & AI Logic</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/DEF-🛡️-4A90E2?style=for-the-badge&labelColor=000000"/></td>
+    <td align="center"><h3><kbd>MAX</kbd></h3></td>
+    <td align="left"><b>Impenetrable Error Handling</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/SP.ATK-🔮-C77BFF?style=for-the-badge&labelColor=000000"/></td>
+    <td align="center"><h3><kbd>MAX</kbd></h3></td>
+    <td align="left"><b>Neural Networks & Deep Learning</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/SP.DEF-✨-9ea0b0?style=for-the-badge&labelColor=000000"/></td>
+    <td align="center"><h3><kbd>MAX</kbd></h3></td>
+    <td align="left"><b>Clean Architecture & Documentation</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/SPEED-💨-FFD700?style=for-the-badge&labelColor=000000"/></td>
+    <td align="center"><h3><kbd>MAX</kbd></h3></td>
+    <td align="left"><b>Lightning-Fast Delivery</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/ASCENSION_STREAK-██████████_Unbreakable-FF4500?style=for-the-badge&labelColor=000000"/>
+    </td>
+  </tr>
+</table>
 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&include_all_commits=true&count_private=true&custom_title=Mythical%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gunda-Sukesh&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&border_color=FFD700" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700&custom_title=Divine%20Elements" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunda-Sukesh&layout=compact&theme=radical&title_color=FFD700&border_color=FFD700" />
 </td>
 </tr>
 </table>
