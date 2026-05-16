@@ -1,3 +1,121 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=56&lines=%E2%96%B6+TRAINER+GUNDA+SUKESH+%E2%97%80;POK%C3%89MON+TRAINER+CARD+PROFILE;FULL+PUBLIC+REPOSITORY+POK%C3%89DEX+SYNCED" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🃏 OFFICIAL TRAINER CARD
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║  TRAINER NAME   : Gunda Sukesh                                      ║
+║  TRAINER ID     : 148301892                                         ║
+║  REGION         : India 🇮🇳                                          ║
+║  CLASS          : Full-Stack + AI Developer                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  THEME          : Pokémon UI Card Layout (based on HTML version)    ║
+║  STARTER        : Python                                             ║
+║  RIVAL          : JavaScript                                         ║
+║  SPECIALIZATION : AI, Full-Stack Apps, Simulation Systems           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Gunda-Sukesh?style=for-the-badge&label=Followers&color=FFD700&labelColor=111827)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-13-4A90E2?style=for-the-badge&labelColor=111827)
+![Profile Views](https://komarev.com/ghpvc/?username=Gunda-Sukesh&style=for-the-badge&label=Profile%20Views&color=7C3AED)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ FEATURED MISSIONS
+
+</div>
+
+### `#A01` — `Blog_Platform` (Fork)
+> Blog platform repository in your public set. Included as requested.
+
+- 🔗 https://github.com/Gunda-Sukesh/Blog_Platform
+- 🧬 Type: `Fork`
+- 🧠 Language: `N/A`
+
+### `#A02` — `LungXSim` (aka "LungSimX")
+> Interactive 3D pulmonary medication simulation project.
+
+- 🔗 https://github.com/Gunda-Sukesh/LungXSim
+- 🌐 Live: https://lung-x-sim.vercel.app
+- 🧠 Language: `JavaScript`
+- 📄 Description: Interaction of different medications with the pulmonary system in interactive 3D environment.
+
+### `#A03` — `Application_Monitoring` (Fork)
+> Application monitoring project in your public repository list. Included as requested.
+
+- 🔗 https://github.com/Gunda-Sukesh/Application_Monitoring
+- 🧬 Type: `Fork`
+- 🧠 Language: `N/A`
+
+---
+
+<div align="center">
+
+## 📘 PUBLIC REPOSITORY POKÉDEX (ALL AVAILABLE)
+
+</div>
+
+| # | Repository | Type | Primary Language | Stars | Forks | Link |
+|---|---|---|---|---:|---:|---|
+| 001 | `Gunda-Sukesh` | Profile Repo | HTML | 0 | 0 | https://github.com/Gunda-Sukesh/Gunda-Sukesh |
+| 002 | `Application_Monitoring` | Fork | N/A | 0 | 0 | https://github.com/Gunda-Sukesh/Application_Monitoring |
+| 003 | `Blog_Platform` | Fork | N/A | 0 | 0 | https://github.com/Gunda-Sukesh/Blog_Platform |
+| 004 | `LungXSim` | Source | JavaScript | 0 | 0 | https://github.com/Gunda-Sukesh/LungXSim |
+| 005 | `rl_navigation` | Source | Python | 0 | 0 | https://github.com/Gunda-Sukesh/rl_navigation |
+| 006 | `LegalEase` | Source | N/A | 0 | 0 | https://github.com/Gunda-Sukesh/LegalEase |
+| 007 | `Bolt` | Source | Jupyter Notebook | 0 | 0 | https://github.com/Gunda-Sukesh/Bolt |
+| 008 | `GRPO` | Source | N/A | 0 | 0 | https://github.com/Gunda-Sukesh/GRPO |
+| 009 | `CC_TA` | Source | Dockerfile | 0 | 0 | https://github.com/Gunda-Sukesh/CC_TA |
+| 010 | `Portfolio` | Source | HTML | 0 | 0 | https://github.com/Gunda-Sukesh/Portfolio |
+| 011 | `EventFlow` | Source | Python | 0 | 0 | https://github.com/Gunda-Sukesh/EventFlow |
+| 012 | `Planetskap` | Source | JavaScript | 0 | 1 | https://github.com/Gunda-Sukesh/Planetskap |
+| 013 | `LegalLink` | Source | JavaScript | 1 | 0 | https://github.com/Gunda-Sukesh/LegalLink |
+
+---
+
+<div align="center">
+
+## 🧭 PROJECT SNAPSHOTS
+
+</div>
+
+- `LegalLink` — Legal/public access bridge project.
+- `LegalEase` — Connects people with government welfare schemes.
+- `EventFlow` — Event management system using MySQL.
+- `Planetskap` — Event management platform.
+- `LungXSim` — Interactive pulmonary medication simulation in 3D.
+- `Portfolio` — Personal web portfolio.
+- `Bolt` — Data science notebook-based work.
+- `rl_navigation` — Reinforcement learning navigation experiments.
+- `CC_TA` — Container/cloud task repo (`Dockerfile` based).
+- `GRPO` — ML/RL experimentation repo.
+
+---
+
+<div align="center">
+
+### 🌟 Trainer Note
+
+This README is now aligned to your Pokémon trainer card style and includes your full public repository set, with explicit entries for **Blog Platform**, **LungXSim (LungSimX)**, and **Application Monitoring**.
+
+</div>
 <!-- ╔═══════════════════════════════════════════════════════════════╗
      ║   POKÉMON TRAINER CARD — Gunda-Sukesh GitHub README          ║
      ║   Drop this file into your Gunda-Sukesh/Gunda-Sukesh repo    ║
